@@ -1,0 +1,3 @@
+python v3.4.4
+django
+pillow
